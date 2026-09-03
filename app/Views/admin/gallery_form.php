@@ -33,7 +33,8 @@ $errors  = session('errors') ?? [];
     </label>
 
     <div class="preview" id="preview">
-      <img src="" alt="선택한 사진 미리보기">
+      <?php /* 주소는 사진을 고른 뒤 스크립트가 넣는다. src="" 로 두면 브라우저가 헛요청을 한다 */ ?>
+      <img alt="선택한 사진 미리보기">
     </div>
 
     <?php if ($is_edit): ?>

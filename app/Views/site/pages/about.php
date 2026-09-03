@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>회사소개 · (주)케이원 K1 OCEAN</title>
+<meta name="description" content="(주)케이원 회사소개 — CEO 인사말, 회사개요, 조직도. 통합 시운전 전문 기업.">
+<link rel="canonical" href="https://k1tnc.co.kr/about.html">
+<link rel="alternate" hreflang="ko" href="https://k1tnc.co.kr/about.html">
+<link rel="alternate" hreflang="en" href="https://k1tnc.co.kr/en/about.html">
+<link rel="alternate" hreflang="x-default" href="https://k1tnc.co.kr/about.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="(주)케이원 · K1 OCEAN">
+<meta property="og:locale" content="ko_KR">
+<meta property="og:title" content="회사소개 · (주)케이원 K1 OCEAN">
+<meta property="og:description" content="(주)케이원 회사소개 — CEO 인사말, 회사개요, 조직도. 통합 시운전 전문 기업.">
+<meta property="og:url" content="https://k1tnc.co.kr/about.html">
+<meta property="og:image" content="https://k1tnc.co.kr/assets/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="회사소개 · (주)케이원 K1 OCEAN">
+<meta name="twitter:description" content="(주)케이원 회사소개 — CEO 인사말, 회사개요, 조직도. 통합 시운전 전문 기업.">
+<meta name="twitter:image" content="https://k1tnc.co.kr/assets/og-image.jpg">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link rel="stylesheet" href="css/v2.css?v=20260902">
+</head>
+<body class="sub">
+<a class="skip" href="#main">본문 바로가기</a>
+
+<!-- HEADER -->
+<header class="head" id="head">
+  <div class="head__in">
+    <a class="brand" href="index.html" aria-label="(주)케이원 홈">
+      <img class="brand--dark" src="assets/logo-k1-dark.png" alt="(주)케이원 · Korea No.1">
+      <img class="brand--light" src="assets/logo-k1.png" alt="(주)케이원 · Korea No.1">
+    </a>
+    <div class="gnbwrap">
+      <nav aria-label="주 메뉴"><ul class="gnb">
+        <li><a href="about.html">회사소개</a></li>
+        <li><a href="business.html">사업분야</a></li>
+        <li><a href="projects.html">프로젝트 실적</a></li>
+        <li><a href="recruit.html">인재채용</a></li>
+        <li><a href="news.html">홍보센터</a></li>
+        <li><a href="contact.html">고객문의</a></li>
+      </ul></nav>
+      <div class="mega"><div class="mega__in">
+        <div class="mega__col"><h5>회사소개</h5><a href="about.html#ceo">CEO 인사말</a><a href="about.html#overview">회사개요</a><a href="about.html#org">조직도</a></div>
+        <div class="mega__col"><h5>사업분야</h5><a href="business.html#commissioning">시운전</a><a href="business.html#support">기술지원</a><a href="business.html#maintenance">유지보수</a></div>
+        <div class="mega__col"><h5>프로젝트 실적</h5><a href="projects.html#domestic">국내 프로젝트</a><a href="projects.html#overseas">해외 프로젝트</a><a href="projects.html#clients">주요 고객사</a></div>
+        <div class="mega__col"><h5>인재채용</h5><a href="recruit.html">채용안내</a><a href="recruit.html#jobs">채용공고</a></div>
+        <div class="mega__col"><h5>홍보센터</h5><a href="news.html">게시판</a><a href="news.html#gallery">갤러리</a><a href="news.html#ci">CI</a></div>
+        <div class="mega__col"><h5>고객문의</h5><a href="contact.html#inquiry">문의하기</a><a href="contact.html#map">오시는 길</a></div>
+      </div></div>
+    </div>
+    <div class="head__r">
+      <div class="lang" role="group" aria-label="Language"><a class="lang__b is-on" href="#" aria-current="true">KR</a><a class="lang__b" href="en/about.html">EN</a></div>
+      <a class="head__cta" href="contact.html">고객문의</a>
+      <button class="burger" id="burger" aria-label="메뉴 열기" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<div class="drawer" id="drawer" aria-hidden="true">
+  <div class="drawer__grp"><b><a href="about.html">회사소개</a></b><div class="sub"><a href="about.html#ceo">CEO 인사말</a><a href="about.html#overview">회사개요</a><a href="about.html#org">조직도</a></div></div>
+  <div class="drawer__grp"><b><a href="business.html">사업분야</a></b><div class="sub"><a href="business.html#commissioning">시운전</a><a href="business.html#support">기술지원</a><a href="business.html#maintenance">유지보수</a></div></div>
+  <div class="drawer__grp"><b><a href="projects.html">프로젝트 실적</a></b><div class="sub"><a href="projects.html#domestic">국내</a><a href="projects.html#overseas">해외</a><a href="projects.html#clients">주요 고객사</a></div></div>
+  <div class="drawer__grp"><b><a href="recruit.html">인재채용</a></b><div class="sub"><a href="recruit.html">채용안내</a><a href="recruit.html#jobs">채용공고</a></div></div>
+  <div class="drawer__grp"><b><a href="news.html">홍보센터</a></b><div class="sub"><a href="news.html">게시판</a><a href="news.html#gallery">갤러리</a><a href="news.html#ci">CI</a></div></div>
+  <div class="drawer__grp"><b><a href="contact.html">고객문의</a></b><div class="sub"><a href="contact.html#inquiry">문의하기</a><a href="contact.html#map">오시는 길</a></div></div>
+      <div class="lang lang--drawer" role="group" aria-label="Language"><a class="lang__b is-on" href="#" aria-current="true">KR</a><a class="lang__b" href="en/about.html">EN</a></div>
+  <a class="btn btn--solid drawer__cta" href="contact.html"><span>고객문의</span>
+    <svg viewBox="0 0 40 12" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M0 6h37M32 1l6 5-6 5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+</div>
+
+<!-- SUB HERO -->
+<section class="subhero" data-nav="dark">
+  <div class="wrap">
+    <div class="bc"><a href="index.html">홈</a> <b>›</b> 회사소개</div>
+    <h1>회사소개</h1>
+    <div class="en">About Us</div>
+  </div>
+</section>
+
+<nav class="pagenav" aria-label="회사소개 섹션">
+  <div class="pagenav__in">
+    <a href="#ceo" class="on">CEO 인사말</a>
+    <a href="#overview">회사개요</a>
+    <a href="#principles">경영방침</a>
+    <a href="#org">조직도</a>
+  </div>
+</nav>
+
+<main id="main">
+
+<!-- CEO MESSAGE -->
+<section class="sec sec--paper" id="ceo" data-nav="light">
+  <div class="wrap">
+    <div class="sec-head rv"><span class="eyebrow"><b>／ 01</b>&nbsp; CEO Message</span></div>
+    <div class="cmsg">
+      <div class="cmsg__img viz rv" style="--gx:64%;--gy:34%">
+        <svg class="viz__art" viewBox="0 0 600 800" preserveAspectRatio="xMidYMid slice" fill="none" aria-hidden="true">
+          <circle cx="300" cy="300" r="90" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M170 560 q0 -150 130 -150 q130 0 130 150" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M300 620 V800 M120 700 H480" class="sig" stroke="currentColor" stroke-width="1.2" opacity=".5"/>
+        </svg>
+        <img src="assets/ceo.jpg" alt="(주)케이원 대표이사 강상운" loading="lazy">
+      </div>
+      <div class="rv">
+        <p class="cmsg__q">현장은 언제나<br><em>예측하지 못한 변수</em>로<br>시작됩니다</p>
+        <div class="cmsg__body">
+          <p>K1은 대한민국 최초로 Turnkey Commissioning 수행체계를 구축한 조선·해양·에너지 분야의 전문 시운전 기업입니다.</p>
+          <p>시운전은 프로젝트의 마지막 공정이지만, 그 준비는 프로젝트의 시작부터 이루어져야 합니다.</p>
+          <p>그렇기에 우리는 프로젝트 초기 단계부터 현장에 참여하여 시운전 준비상태를 사전 점검하고, 시스템별 시운전을 수행하며 최종 Completion과 Handover까지 고객과 함께합니다.</p>
+          <p>현장에서 프로젝트를 수행하며 축적한 경험을 바탕으로 시운전을 보다 체계적으로 수행하는 방법을 하나의 고유적인 체계로 통합한 Turnkey Commissioning 수행방식을 구축해 왔습니다. K1은 기존의 단순 인력 중심 방식에서 벗어나 모든 공정을 하나의 체계 안에서 관리하는 통합 Commissioning Service를 제공합니다.</p>
+          <p>우리의 경쟁력은 인원의 숫자만이 아니라 현장을 이해하는 경험, 기술을 연결하는 조직력, 그리고 프로젝트를 끝까지 완성하는 실행력에 있습니다.</p>
+          <p>앞으로도 K1은 대한민국을 넘어 글로벌 조선·해양·에너지 산업에서 신뢰받는 Commissioning Partner로 성장하겠습니다.</p>
+          <p>회사를 크게 만드는 것보다 고객이 다시 찾는 회사를 만드는 것이 K1의 목표입니다.</p>
+        </div>
+        <div class="cmsg__sign">(주)케이원 대표이사 <b>강상운</b></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- HISTORY -->
+<section class="sec sec--paper2" data-nav="light">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="eyebrow"><b>／ 02</b>&nbsp; Company History</span>
+      <h2 class="d2">회사 연혁</h2>
+      <p class="lead">2017년부터 현장에서 쌓아온 경험과 기술로 성장해 온 Commissioning 전문기업 K1입니다.</p>
+    </div>
+    <div class="hist rv">
+      <div class="hist__i"><div class="k">핵심 기술진 현장 경험</div><div class="v">20+ Years</div></div>
+      <div class="hist__i"><div class="k">설립</div><div class="v">Since 2017<small>주식회사 케이원 · K1 OCEAN</small></div></div>
+      <div class="hist__i"><div class="k">인증기업 신뢰</div><div class="v">우수 중소기업<small>좋은 일자리 · 기술 혁신 중소기업</small></div></div>
+      <div class="hist__i"><div class="k">Commissioning Professionals</div><div class="v">260명<small>정규직 80명 · 계약직 180명</small></div></div>
+      <div class="hist__i"><div class="k">2025 Revenue</div><div class="v">180억원<small>매출</small></div></div>
+      <div class="hist__i"><div class="k">End-to-End 수행체계</div><div class="v">Turnkey Commissioning</div></div>
+    </div>
+
+    <!-- 연도별 수행 타임라인 -->
+    <div class="tline rv">
+      <ol class="tline__in">
+        <li><span class="y">2018</span></li>
+        <li><span class="y">2019</span></li>
+        <li><span class="y">2020</span></li>
+        <li><span class="y">2021</span></li>
+        <li><span class="y">2022</span></li>
+        <li><span class="y">2023</span></li>
+        <li><span class="y">2024</span></li>
+        <li><span class="y">2025</span></li>
+        <li class="on"><span class="y">2026</span><span class="now">PRESENT</span></li>
+      </ol>
+    </div>
+
+    <!-- Commissioning 수행 범위 -->
+    <div class="sec-head rv" style="margin:clamp(60px,7vw,90px) 0 0"><span class="eyebrow">Commissioning Scope</span></div>
+    <div class="scope stg rv">
+      <div class="scope__i">
+        <i class="ic scope__ic i-planning" aria-hidden="true"></i>
+        <h4>Planning &amp; Coordination</h4>
+        <p>Commissioning Planning · Interface · Schedule</p>
+      </div>
+      <div class="scope__i">
+        <i class="ic scope__ic i-precom" aria-hidden="true"></i>
+        <h4>Pre-Commissioning</h4>
+        <p>Inspection · Pre-check · Loop Check</p>
+      </div>
+      <div class="scope__i">
+        <i class="ic scope__ic i-eim" aria-hidden="true"></i>
+        <h4>E&amp;I&amp;M Commissioning</h4>
+        <p>Electrical · Instrumentation · Mechanical</p>
+      </div>
+      <div class="scope__i">
+        <i class="ic scope__ic i-test" aria-hidden="true"></i>
+        <h4>Function &amp; Integration Test</h4>
+        <p>Function Test · Integrated Test · Performance Test</p>
+      </div>
+      <div class="scope__i">
+        <i class="ic scope__ic i-trouble" aria-hidden="true"></i>
+        <h4>Troubleshooting</h4>
+        <p>Issue Analysis · Technical Coordination · Resolution</p>
+      </div>
+      <div class="scope__i">
+        <i class="ic scope__ic i-handover" aria-hidden="true"></i>
+        <h4>Completion &amp; Handover</h4>
+        <p>Punch · Test Record · Documentation · Handover</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- OVERVIEW -->
+<section class="sec sec--paper" id="overview" data-nav="light">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="eyebrow"><b>／ 03</b>&nbsp; Company Overview</span>
+      <h2 class="d2">회사 개요</h2>
+      <p class="lead">조선 · 해양 · 에너지 산업의 Commissioning 전 과정을 하나의 책임체계로 수행하는 Turnkey 전문기업</p>
+    </div>
+    <dl class="def rv">
+      <div class="def__row"><dt>회사명</dt><dd>주식회사 케이원 (K1 Co., Ltd.)</dd></div>
+      <div class="def__row"><dt>설립일</dt><dd>2017년 07월 01일</dd></div>
+      <div class="def__row"><dt>대표이사</dt><dd>강상운 (Dennis Kang)</dd></div>
+      <div class="def__row"><dt>사업 업종</dt><dd>조선 · 해양 · 에너지 산업의 Commissioning 전 과정을 하나의 책임체계로 수행하는 Turnkey 전문기업</dd></div>
+    </dl>
+
+    <div class="sec-head rv" style="margin:clamp(60px,7vw,90px) 0 0"><span class="eyebrow">보유 기술</span></div>
+    <div class="tech rv">
+      <div class="tech__i"><div class="n">01</div><h4>전기 시운전</h4><p>발전기·변압기·배전반·보호계전기 시험 및 계통 연계를 통해 전력 시스템의 안정성과 신뢰성을 확보</p></div>
+      <div class="tech__i"><div class="n">02</div><h4>계장 시운전</h4><p>DCS/PLC 루프체크, 계측기 교정, 인터록 및 트립 시험 수행으로 정밀 제어 시스템 완성도 구현</p></div>
+      <div class="tech__i"><div class="n">03</div><h4>기계 시운전</h4><p>기계 설비 전반에 대한 성능 검증(Performance Test)을 통해 설비의 최적 운전 조건 확보</p></div>
+      <div class="tech__i"><div class="n">04</div><h4>HVAC 시운전</h4><p>AHU·FCU·Chiller·Compressor 등 공조 시스템 시운전을 통해 운전 효율 및 환경 안정성 확보</p></div>
+      <div class="tech__i"><div class="n">05</div><h4>시험 장비 운용</h4><p>보호계전기 시험기, 절연·접지 시험기, 정밀 교정 장비 등 전문 장비 기반 고도화된 시험 수행</p></div>
+      <div class="tech__i"><div class="n">06</div><h4>품질 안전 관리</h4><p>ISO 기반 품질 절차, JSA·PTW 시스템 운영을 통해 무재해·무결점 프로젝트 수행</p></div>
+      <div class="tech__i" style="grid-column:1/-1"><div class="n">07</div><h4>프로젝트 관리</h4><p>Punch 관리, 공정 통제, 품질 문서화, 글로벌 협업을 통한 프로젝트 전 과정 통합 관리</p></div>
+    </div>
+
+    <div class="mv rv">
+      <div class="mv__c">
+        <div class="k">Mission · 미션</div>
+        <ol><li>안전한 시운전 수행</li><li>최적의 솔루션 제공</li><li>고객 성공 지원</li></ol>
+      </div>
+      <div class="mv__c dark">
+        <div class="k">Vision · 비전</div>
+        <div class="vh">글로벌 전기 시운전 선도 기업</div>
+        <p class="vp">· ESG &amp; Governance 기반 신뢰경영 실현</p>
+        <p class="vp">· 케이원은 선박·해양 분야의 친환경 시스템에서 기술 경쟁력을 강화하고, 지속가능한 성장과 투명한 거버넌스를 통해 글로벌 신뢰 기업으로 도약합니다</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PRINCIPLES -->
+<section class="sec sec--paper2" id="principles" data-nav="light">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="eyebrow"><b>／ 04</b>&nbsp; Management Principles</span>
+      <h2 class="d2">경영 방침</h2>
+      <p class="lead">원칙은 분명하게, 협업은 유연하게, 책임은 끝까지.</p>
+    </div>
+    <div class="prin rv">
+      <div class="prin__row"><div class="n"><i class="ic i-trust" aria-hidden="true"></i>01</div><div class="t">분명한 기준<b>Trust · 신뢰</b></div><p>우리는 모든 업무를 명확한 원칙과 근거 위에서 판단합니다. 일관된 운영과 투명한 소통으로 신뢰의 기준을 세웁니다.</p></div>
+      <div class="prin__row"><div class="n"><i class="ic i-collab" aria-hidden="true"></i>02</div><div class="t">유연한 협업<b>Collaboration · 협업</b></div><p>고객·파트너·구성원이 같은 방향으로 움직일 수 있도록 열린 태도로 협업하며 더 나은 결과를 함께 만들어갑니다.</p></div>
+      <div class="prin__row"><div class="n"><i class="ic i-responsibility" aria-hidden="true"></i>03</div><div class="t">확실한 책임<b>Responsibility · 책임</b></div><p>맡은 일은 시작보다 마무리가 더 중요합니다. 우리는 약속한 품질과 일정, 마지막 순간까지 책임 있게 완성합니다.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ORGANIZATION -->
+<section class="sec sec--paper" id="org" data-nav="light">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="eyebrow"><b>／ 05</b>&nbsp; Organization</span>
+      <h2 class="d2">조직도</h2>
+      <p class="lead">Turnkey Base를 기반으로, 케이원과 케이원오션 두 축이 프로젝트 전 과정을 함께 수행합니다.</p>
+    </div>
+    <div class="orgc rv">
+      <div class="orgc__root">주식회사 케이원</div>
+      <div class="orgc__stem"></div>
+      <div class="orgc__branches">
+        <div class="orgc__branch">
+          <div class="orgc__node">
+            <h4>케이원</h4>
+            <div class="sub">Offshore &amp; Integrated Commissioning</div>
+          </div>
+          <ul class="orgc__teams">
+            <li>운영지원팀</li><li>프로젝트운영팀</li><li>기술지원팀</li><li>HSE / QAQC</li><li>프로젝트 엔지니어 해외 사업팀</li><li>프로젝트 기술영업부</li>
+          </ul>
+        </div>
+        <div class="orgc__branch">
+          <div class="orgc__node">
+            <h4>케이원오션</h4>
+            <div class="sub">Marine Service</div>
+          </div>
+          <ul class="orgc__teams">
+            <li>조달 / 지원팀</li><li>전장 시운전</li><li>기계 시운전</li><li>HSE / QAQC</li><li>운영 / 유지 / 친환경 사업팀</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- FOOTER -->
+<footer class="foot" id="contact" data-nav="dark">
+  <div class="foot__cta">
+    <div class="wrap">
+      <h2>프로젝트의 마지막 순간,<br><em>케이원이 함께하겠습니다</em></h2>
+      <a class="btn btn--solid" href="contact.html"><span>고객문의</span>
+        <svg viewBox="0 0 40 12" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M0 6h37M32 1l6 5-6 5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+    </div>
+  </div>
+  <div class="wrap foot__top">
+    <div class="foot__brand">
+      <div class="foot__logo">
+        <img src="assets/logo-k1-dark.png" alt="(주)케이원 · Korea No.1">
+      </div>
+      <p>조선 · 해양 · 에너지 산업의 Commissioning 전 과정을 하나의 책임체계로 수행하는 Turnkey 전문기업.</p>
+    </div>
+    <div class="foot__map">
+      <div class="foot__col"><h4>회사소개</h4><a href="about.html#ceo">CEO 인사말</a><a href="about.html#overview">회사개요</a><a href="about.html#org">조직도</a></div>
+      <div class="foot__col"><h4>사업분야</h4><a href="business.html#commissioning">시운전</a><a href="business.html#support">기술지원</a><a href="business.html#maintenance">유지보수</a></div>
+      <div class="foot__col"><h4>프로젝트 실적</h4><a href="projects.html#domestic">국내 프로젝트</a><a href="projects.html#overseas">해외 프로젝트</a><a href="projects.html#clients">주요 고객사</a></div>
+      <div class="foot__col"><h4>인재채용</h4><a href="recruit.html">채용안내</a><a href="recruit.html#jobs">채용공고</a></div>
+      <div class="foot__col"><h4>홍보센터</h4><a href="news.html">게시판</a><a href="news.html#gallery">갤러리</a><a href="news.html#ci">CI</a></div>
+      <div class="foot__col"><h4>고객문의</h4><a href="contact.html#inquiry">문의하기</a><a href="contact.html#map">오시는 길</a></div>
+    </div>
+  </div>
+  <div class="wrap foot__info">
+    <span><b>K1</b> <?= esc($site['hq_addr']) ?> · <?= esc($site['ulsan_addr']) ?></span>
+    <span><b>K1 OCEAN</b> <?= esc($site['yeongam_addr']) ?></span>
+    <span><b>TEL</b> <?= esc($site['tel']) ?> · <b>FAX</b> <?= esc($site['fax']) ?></span>
+    <span><b>E-mail</b> <?= esc($site['email']) ?></span>
+  </div>
+  <div class="wrap foot__bot"><a class="foot__pp" href="privacy.html">개인정보 처리방침</a><span>© 2026 (주)케이원 (K1 Co., Ltd.) · K1 OCEAN — All rights reserved.</span></div>
+</footer>
+
+<script src="js/v2.js?v=20260902"></script>
+<script>
+(function(){
+  var links=[].slice.call(document.querySelectorAll('.pagenav a'));
+  var secs=links.map(function(a){return document.querySelector(a.getAttribute('href'));});
+  var onScroll=function(){var y=window.scrollY+170;var idx=0;secs.forEach(function(s,i){if(s&&s.offsetTop<=y)idx=i;});links.forEach(function(a,i){a.classList.toggle('on',i===idx);});};
+  window.addEventListener('scroll',onScroll,{passive:true});onScroll();
+})();
+</script>
+</body>
+</html>

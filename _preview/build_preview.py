@@ -21,7 +21,20 @@ sys.stdout.reconfigure(encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT  = os.path.join(ROOT, '_preview', 'dist')
 BASE = 'http://localhost:8080'
-ID, PW = 'k1admin', 'k1admin!2026'
+def _env(key, default=''):
+    """비밀번호를 코드에 두지 않는다. .env 에서 읽는다."""
+    path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.env')
+    try:
+        for line in open(path, encoding='utf-8'):
+            if line.strip().startswith(key):
+                return line.split('=', 1)[1].strip().strip(''"')
+    except OSError:
+        pass
+    return default
+
+
+ID = _env('admin.initialUsername', 'k1admin')
+PW = _env('admin.initialPassword')
 
 # 떠 올 화면 — (주소, 저장할 파일명)
 PAGES = [

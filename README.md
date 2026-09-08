@@ -37,7 +37,13 @@ php spark serve
 
 `http://localhost:8080` 홈페이지 · `http://localhost:8080/admin/login` 관리자
 
-**초기 계정**: `k1admin` / `k1admin!2026` — ⚠️ 서버 배포 후 반드시 변경
+**초기 계정**: 비밀번호는 코드에 두지 않습니다. `.env` 에 아래를 적고 시드를 실행하세요.
+
+```ini
+admin.initialUsername = k1admin
+admin.initialPassword = <직접 정한 8자 이상 비밀번호>
+admin.initialName     = 케이원 관리자
+```
 
 ### DB 설정
 

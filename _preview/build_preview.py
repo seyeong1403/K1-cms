@@ -27,7 +27,7 @@ def _env(key, default=''):
     try:
         for line in open(path, encoding='utf-8'):
             if line.strip().startswith(key):
-                return line.split('=', 1)[1].strip().strip(''"')
+                return line.split('=', 1)[1].strip().strip(chr(39) + chr(34))
     except OSError:
         pass
     return default
